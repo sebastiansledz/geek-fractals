@@ -2754,86 +2754,107 @@ textarea {
 .divide0 {
     width: 100%;
     height: 0px;
+    display: inline-block;
 }
 .divide2 {
     width: 100%;
     height: 2px;
+    display: inline-block;
 }
 .divide3 {
     width: 100%;
     height: 3px;
+    display: inline-block;
 }
 .divide5 {
     width: 100%;
     height: 5px;
+    display: inline-block;
 }
 .divide10 {
     width: 100%;
     height: 10px;
+    display: inline-block;
 }
 .divide15 {
     width: 100%;
     height: 15px;
+    display: inline-block;
 }
 .divide20 {
     width: 100%;
     height: 20px;
+    display: inline-block;
 }
 .divide25 {
     width: 100%;
     height: 25px;
+    display: inline-block;
 }
 .divide30 {
     width: 100%;
     height: 30px;
+    display: inline-block;
 }
 .divide35 {
     width: 100%;
     height: 35px;
+    display: inline-block;
 }
 .divide40 {
     width: 100%;
     height: 40px;
+    display: inline-block;
 }
 .divide45 {
     width: 100%;
     height: 40px;
+    display: inline-block;
 }
 .divide50 {
     width: 100%;
     height: 50px;
+    display: inline-block;
 }
 .divide55 {
     width: 100%;
     height: 55px;
+    display: inline-block;
 }
 .divide60 {
     width: 100%;
     height: 60px;
+    display: inline-block;
 }
 .divide65 {
     width: 100%;
     height: 65px;
+    display: inline-block;
 }
 .divide70 {
     width: 100%;
     height: 70px;
+    display: inline-block;
 }
 .divide75 {
     width: 100%;
     height: 75px;
+    display: inline-block;
 }
 .divide80 {
     width: 100%;
     height: 80px;
+    display: inline-block;
 }
 .divide85 {
     width: 100%;
     height: 85px;
+    display: inline-block;
 }
 .divide100 {
     width: 100%;
     height: 100px;
+    display: inline-block;
 }
 .rm0 {
     margin-right: 0px
